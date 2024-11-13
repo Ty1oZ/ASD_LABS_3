@@ -1,0 +1,6 @@
+﻿  Backpack.cpp
+C:\Users\Arseny\source\repos\Lab_03_TheProblemBackpack_ASD\Lab_03_TheProblemBackpack_ASD\Backpack.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Arseny\source\repos\Lab_03_TheProblemBackpack_ASD\Lab_03_TheProblemBackpack_ASD\Backpack.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Arseny\source\repos\Lab_03_TheProblemBackpack_ASD\Lab_03_TheProblemBackpack_ASD\Backpack.cpp(53,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\Lab_03_TheProblemBackpack_ASD\Lab_03_TheProblemBackpack_ASD\Backpack.cpp(54,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab_03_TheProblemBackpack_ASD.vcxproj -> C:\Users\Arseny\source\repos\Lab_03_TheProblemBackpack_ASD\x64\Debug\Lab_03_TheProblemBackpack_ASD.exe
