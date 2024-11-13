@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arseny\\source\\repos\\Labs_03_ASD_TURTLE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B913406-06D2-4D16-80CA-D39B10AA4FF7}|Labs_03_ASD_TURTLE\\Labs_03_ASD_TURTLE.vcxproj|C:\\Users\\Arseny\\source\\repos\\Labs_03_ASD_TURTLE\\Labs_03_ASD_TURTLE\\MinPath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B913406-06D2-4D16-80CA-D39B10AA4FF7}|Labs_03_ASD_TURTLE\\Labs_03_ASD_TURTLE.vcxproj|solutionrelative:Labs_03_ASD_TURTLE\\MinPath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinPath.cpp",
+              "DocumentMoniker": "C:\\Users\\Arseny\\source\\repos\\Labs_03_ASD_TURTLE\\Labs_03_ASD_TURTLE\\MinPath.cpp",
+              "RelativeDocumentMoniker": "Labs_03_ASD_TURTLE\\MinPath.cpp",
+              "ToolTip": "C:\\Users\\Arseny\\source\\repos\\Labs_03_ASD_TURTLE\\Labs_03_ASD_TURTLE\\MinPath.cpp",
+              "RelativeToolTip": "Labs_03_ASD_TURTLE\\MinPath.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T14:58:57.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
