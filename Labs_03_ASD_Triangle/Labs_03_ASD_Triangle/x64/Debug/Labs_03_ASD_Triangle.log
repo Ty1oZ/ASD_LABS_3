@@ -1,0 +1,4 @@
+﻿  Triangle.cpp
+C:\Users\Arseny\source\repos\Labs_03_ASD_Triangle\Labs_03_ASD_Triangle\Triangle.cpp(69,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\Labs_03_ASD_Triangle\Labs_03_ASD_Triangle\Triangle.cpp(80,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Labs_03_ASD_Triangle.vcxproj -> C:\Users\Arseny\source\repos\Labs_03_ASD_Triangle\x64\Debug\Labs_03_ASD_Triangle.exe
