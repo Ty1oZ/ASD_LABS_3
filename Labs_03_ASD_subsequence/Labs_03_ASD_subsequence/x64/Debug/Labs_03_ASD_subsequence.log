@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Arseny\source\repos\Labs_03_ASD_subsequence\Labs_03_ASD_subsequence\Source.cpp(90,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\Labs_03_ASD_subsequence\Labs_03_ASD_subsequence\Source.cpp(91,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Labs_03_ASD_subsequence.vcxproj -> C:\Users\Arseny\source\repos\Labs_03_ASD_subsequence\x64\Debug\Labs_03_ASD_subsequence.exe
